@@ -4,7 +4,7 @@ Olá! Bem-vindo(a) ao meu projeto de portfólio, uma aplicação web que desenvo
 O design original foi criado por Joana Santos, e eu tive a missão de transformar a ideia visual em código, seguindo as melhores práticas ensinadas no curso.
 
 🔗 Acesse o projeto online
-Você pode ver a versão online deste projeto aqui: Link do seu projeto na Vercel
+Você pode ver a versão online deste projeto aqui: Link do seu projeto na Vercel: https://portfolio-eight-jade-38.vercel.app/
 
 🚀 Tecnologias Utilizadas
 HTML5
